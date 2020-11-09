@@ -1,6 +1,6 @@
 {
-    "displayName": "System.Runtime.CompilerServices.Unsafe.dll",
-    "name": "System.Runtime.CompilerServices.Unsafe.dll",
+    "displayName": "Microsoft Unsafe DLL",
+    "name": "com.microsoft.unsafe.dll",
     "version": "4.7.1",
     "type": "library"
   } 

@@ -1,6 +1,6 @@
 {
-    "displayName": "Microsoft Unsafe DLL",
-    "name": "com.microsoft.unsafe",
-    "version": "4.7.1-a",
+    "displayName": "System.Runtime.CompilerServices.Unsafe.dll",
+    "name": "com.sebaslab.svelto.unsafe",
+    "version": "4.7.1-upload.1",
     "type": "library"
-  } 
+} 

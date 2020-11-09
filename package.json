@@ -1,6 +1,6 @@
 {
     "displayName": "Microsoft Unsafe DLL",
     "name": "com.microsoft.unsafe",
-    "version": "4.7.1b",
+    "version": "4.7.1-a",
     "type": "library"
   } 
